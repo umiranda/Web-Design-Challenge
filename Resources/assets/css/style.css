@@ -6,3 +6,28 @@ h1 {
     padding:10px;
     border: none;
 }
+
+
+body{
+    background-color: lightgray
+ }
+
+.col-md-7{
+    padding-top: 20px;
+
+}
+
+.col-md-5{
+    padding-top: 20px;
+    
+}
+
+.col-md-12{
+    background: white;
+    padding: 20px;
+ }
+
+ .navbar navbar-expand-lg navbar-light bg-light{
+    text-align: center;
+
+ }
